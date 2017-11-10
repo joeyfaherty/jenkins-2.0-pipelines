@@ -21,13 +21,13 @@ You cannot execute Pipeline script locally.
 If you want to test a change to Jenkinsfile live but without committing it,
 use the Replay feature to manually edit and run the groovy file on the jenkins machine.
 
-Pipelines documentation is a little scattered. Some useful links:
-
+##### Pipelines documentation is a little scattered. Some useful links:
 https://jenkins.io/doc/book/pipeline/
 https://jenkins.io/blog/2016/10/16/stage-lock-milestone/
 https://stackoverflow.com/search?tab=relevance&q=jenkinsfile
 
-TODO:
+
+##### // TODO:
 Extend with shared libs
 https://jenkins.io/doc/book/pipeline/shared-libraries/
 
