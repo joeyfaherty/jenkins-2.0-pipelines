@@ -5,7 +5,7 @@ Covers:
 * Workspace cleanup
 * print env vars
 * lock (for synchronous execution of stages)
-* parallel 
+* parallel stage/step execution
 * python virtual envs
 * git merge
 * using placeholder variables within sh blocks
