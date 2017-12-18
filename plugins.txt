@@ -1,0 +1,4 @@
+build-pipeline-plugin
+pipeline-model-definition
+slack
+stashNotifier
