@@ -1,7 +1,7 @@
 To run:
-`docker-compose build`
-`docker-compose up -d`
-`localhost:8080`
+1. `docker-compose build`
+1. `docker-compose up -d`
+1. Go to your local jenkins at: `localhost:8080`
 
 
 ## Jenkinsfile shows some useful functions for when you write a pipeline.
